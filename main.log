@@ -1,0 +1,163 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 OCT 2023 17:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/mmckay/phd_projects/PHD_Thesis/main.tex
+(/Users/mmckay/phd_projects/PHD_Thesis/main.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/Users/mmckay/phd_projects/PHD_Thesis/uwthesis.cls
+Document Class: uwthesis 2020/02/24
+\tf@not=\write3
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+Formatting for ProQuest
+\botmargin=\dimen103
+\@@wholepage=\box26
+\@Chair=\count89
+\@Sign=\count90
+\abs@savebox=\box27
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+) (/Users/mmckay/phd_projects/PHD_Thesis/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
+ [1
+
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 105.
+ [-1
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 136.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 136.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 136.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 136.
+ [0
+
+] (/Users/mmckay/phd_projects/PHD_Thesis/main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [1
+
+
+
+] (/Users/mmckay/phd_projects/PHD_Thesis/main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [2
+
+] [3
+
+] [4] [5
+
+] [6
+
+]
+<<1>>
+[1
+
+
+
+] [2]
+<<2>>
+[3
+
+]
+Overfull \hbox (10.33536pt too wide) in paragraph at lines 352--354
+[]\OT1/cmr/m/n/12 Although un-nec-es-sary for the-sis writ-ers, the \OT1/cmr/m/sl/12 T[]Xbook \OT1/cmr/m/n/12 is the pri-mary ref-er-ence for T[]Xsperts
+ []
+
+
+Underfull \vbox (badness 5878) has occurred while \output is active []
+
+ [4] [5]
+<<3>>
+
+Overfull \hbox (5.6383pt too wide) in paragraph at lines 508--512
+[]\OT1/cmr/m/n/12 Include most ad-di-tional for-mat-ting pack-ages with [][]\OT1/cmtt/m/n/12 \usepackage[]\OT1/cmr/m/n/12 , as de-scribe by Lamport[[]].
+ []
+
+[6
+
+] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (17.53024pt too wide) in paragraph at lines 776--776
+ []  \OT1/cmtt/m/n/12 \acknowledgments{The author wishes . . . {\it il miglior fabbro}.\par}}[] 
+ []
+
+[13]
+<<4>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 810.
+(/Users/mmckay/phd_projects/PHD_Thesis/main.bbl [14
+
+]) [15
+
+]
+<<A>>
+[16
+
+] [17
+
+] (/Users/mmckay/phd_projects/PHD_Thesis/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 482 strings out of 492649
+ 5934 string characters out of 6129622
+ 67884 words of memory out of 5000000
+ 4411 multiletter control sequences out of 15000+600000
+ 12224 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 27i,9n,21p,264b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on /Users/mmckay/phd_projects/PHD_Thesis/main.pdf (26 pages, 267537 bytes).
+PDF statistics:
+ 177 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
